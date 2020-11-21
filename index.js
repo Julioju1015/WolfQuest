@@ -8,4 +8,4 @@ manager.spawn().then(shards => {
 
 manager.on('shardCreate', shard => console.log(`Launched shard ${shard.id}`));
 
-///test by  julio///
+///Bot By julioju///

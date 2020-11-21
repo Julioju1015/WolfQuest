@@ -4,12 +4,12 @@ const JoueurDeFlute = require("./nouvelle_lune/joueurDeFlute").JoueurDeFlute;
 const BoucEmissaire = require("./nouvelle_lune/boucEmissaire").BoucEmissaire;
 const IdiotDuVillage = require("./nouvelle_lune/idiotDuVillage").IdiotDuVillage;
 const Salvateur = require("./nouvelle_lune/salvateur").Salvateur;
-const PetiteFille = require("./thiercelieux/petiteFille").PetiteFille;
-const Chasseur = require("./thiercelieux/chasseur").Chasseur;
-const Voleur = require("./thiercelieux/voleur").Voleur;
-const Voyante = require("./thiercelieux/voyante").Voyante;
-const Sorciere = require("./thiercelieux/sorciere").Sorciere;
-const Cupidon = require("./thiercelieux/cupidon").Cupidon;
+const PetiteFille = require("./julioju/petiteFille").PetiteFille;
+const Chasseur = require("./julioju/chasseur").Chasseur;
+const Voleur = require("./julioju/voleur").Voleur;
+const Voyante = require("./julioju/voyante").Voyante;
+const Sorciere = require("./julioju/sorciere").Sorciere;
+const Cupidon = require("./julioju/cupidon").Cupidon;
 
 class Create {
 
