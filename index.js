@@ -7,3 +7,5 @@ manager.spawn().then(shards => {
 }).catch(console.error);
 
 manager.on('shardCreate', shard => console.log(`Launched shard ${shard.id}`));
+
+///test by  julio///
