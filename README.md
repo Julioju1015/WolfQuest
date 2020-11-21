@@ -10,6 +10,5 @@ Loup garou dans discord.
         botPrefix: '/',//Préfix//
         botColor: [0, 210, 255],
         botInviteLink: 'link',//Lin dinvite du bot//
-        ```
 
  Mon serveur si besoins d'aide: https://discord.gg/tEnS62E
